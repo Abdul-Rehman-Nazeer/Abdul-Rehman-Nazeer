@@ -31,13 +31,11 @@
     </a>
 </p>
 
-### Languages and Tools:
-
 ## Languages and Tools
 
-<img src="./python.svg" alt="Python"/>&nbsp;&nbsp;
-<img src="./javascript.svg" alt="JavaScript" />&nbsp;&nbsp;
-<img src="./html.svg" alt="HTML"/>&nbsp;&nbsp;
+<img src="Abdul Rehman Nazeer/python.svg" alt="Python"/>&nbsp;&nbsp;
+<img src="Abdul Rehman Nazeer/javascript.svg" alt="JavaScript" />&nbsp;&nbsp;
+<img src="Abdul Rehman Nazeer/html.svg" alt="HTML"/>&nbsp;&nbsp;
 
 
 <br />
