@@ -13,10 +13,23 @@
 
 ### Connect with me:
 
-[![LinkedIn](./Linkedin.svg)](https://www.linkedin.com/in/abdul-rehman-nazeer-6093b7307/)  
-[![LeetCode](./leetcode.svg)](https://leetcode.com/u/Abdul_Rehman_Nazeer/)  
-[![Kaggle](./kaggle.svg)](https://www.kaggle.com/abdulrehmannazeer)  
-[![HackerRank](./hackerrank.svg)](https://www.hackerrank.com/profile/k224078)
+<p align="left">
+    <a href="https://www.linkedin.com/in/abdul-rehman-nazeer-6093b7307/">
+        <img src="./Linkedin.svg" alt="LinkedIn" width="40" height="40">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://leetcode.com/u/Abdul_Rehman_Nazeer/">
+        <img src="./leetcode.svg" alt="LeetCode" width="40" height="40">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.kaggle.com/abdulrehmannazeer">
+        <img src="./kaggle.svg" alt="Kaggle" width="40" height="40">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.hackerrank.com/profile/k224078">
+        <img src="./hackerrank.svg" alt="HackerRank" width="40" height="40">
+    </a>
+</p>
 
 ### Languages and Tools:
 
