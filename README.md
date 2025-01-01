@@ -1,7 +1,6 @@
-### Hi, <img src="Hi.gif" width="29px"> I'm Abdul Rehman Nazeer.
+### Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"/>I'm Abdul Rehman Nazeer.
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+passionate+Machine+Learning+Engineer;(https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+Machine+Learning+Engineer;)](https://git.io/typing-svg)
 
 ## I'm a Student, Developer, and Teacher!!
 
@@ -27,9 +26,9 @@
 
 ## Languages and Tools
 
-<img src="./python.svg" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
-<img src="./javascript.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
-<img src="./html.svg" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./python.svg" alt="Python"/>&nbsp;&nbsp;
+<img src="./javascript.svg" alt="JavaScript" />&nbsp;&nbsp;
+<img src="./html.svg" alt="HTML"/>&nbsp;&nbsp;
 
 
 <br />
