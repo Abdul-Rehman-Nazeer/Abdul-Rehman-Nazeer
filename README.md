@@ -1,6 +1,6 @@
 ### Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"/>I'm Abdul Rehman Nazeer.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+Machine+Learning+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+Machine+Learning+Engineer)](https://git.io/typing-svg)
 
 ## I'm a Student, Developer, and Teacher!!
 
