@@ -15,7 +15,7 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/abdul-rehman-nazeer-6093b7307/">
-        <img src="./Linkedin.svg" alt="LinkedIn" style="width: 40px; height: 40px;">
+        <img src="./LinkedIn.svg" alt="LinkedIn" style="width: 40px; height: 40px;">
     </a>
     &nbsp;&nbsp;
     <a href="https://leetcode.com/u/Abdul_Rehman_Nazeer/">
