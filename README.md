@@ -15,19 +15,19 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/abdul-rehman-nazeer-6093b7307/">
-        <img src="./Linkedin.svg" alt="LinkedIn" width="40" height="40">
+        <img src="./Linkedin.svg" alt="LinkedIn" style="width: 40px; height: 40px;">
     </a>
     &nbsp;&nbsp;
     <a href="https://leetcode.com/u/Abdul_Rehman_Nazeer/">
-        <img src="./leetcode.svg" alt="LeetCode" width="40" height="40">
+        <img src="./leetcode.svg" alt="LeetCode" style="width: 40px; height: 40px;">
     </a>
     &nbsp;&nbsp;
     <a href="https://www.kaggle.com/abdulrehmannazeer">
-        <img src="./kaggle.svg" alt="Kaggle" width="40" height="40">
+        <img src="./kaggle.svg" alt="Kaggle" style="width: 40px; height: 40px;">
     </a>
     &nbsp;&nbsp;
     <a href="https://www.hackerrank.com/profile/k224078">
-        <img src="./hackerrank.svg" alt="HackerRank" width="40" height="40">
+        <img src="./hackerrank.svg" alt="HackerRank" style="width: 40px; height: 40px;">
     </a>
 </p>
 
