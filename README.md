@@ -13,14 +13,10 @@
 
 ### Connect with me:
 
-[![website](./Linkedin.svg)](https://www.linkedin.com/in/abdul-rehman-nazeer-6093b7307/)
-&nbsp;&nbsp;
-[![website](./leetcode.svg)](https://leetcode.com/u/Abdul_Rehman_Nazeer/)
-&nbsp;&nbsp;
-[![website](./kaggle.svg)](https://www.kaggle.com/abdulrehmannazeer)
-&nbsp;&nbsp;
-[![website](./hackerrank.svg)](https://www.hackerrank.com/profile/k224078)
-&nbsp;&nbsp;
+[![LinkedIn](./Linkedin.svg)](https://www.linkedin.com/in/abdul-rehman-nazeer-6093b7307/)  
+[![LeetCode](./leetcode.svg)](https://leetcode.com/u/Abdul_Rehman_Nazeer/)  
+[![Kaggle](./kaggle.svg)](https://www.kaggle.com/abdulrehmannazeer)  
+[![HackerRank](./hackerrank.svg)](https://www.hackerrank.com/profile/k224078)
 
 ### Languages and Tools:
 
