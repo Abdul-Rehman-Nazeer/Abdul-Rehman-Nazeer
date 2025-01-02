@@ -15,27 +15,27 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/abdul-rehman-nazeer-6093b7307/">
-        <img src="./LinkedIn.svg" alt="LinkedIn" style="width: 40px; height: 40px;">
+        <img src="./LinkedIn.svg" style="width: 40px; height: 40px;">
     </a>
     &nbsp;&nbsp;
     <a href="https://leetcode.com/u/Abdul_Rehman_Nazeer/">
-        <img src="./leetcode.svg" alt="LeetCode" style="width: 40px; height: 40px;">
+        <img src="./leetcode.svg" style="width: 40px; height: 40px;">
     </a>
     &nbsp;&nbsp;
     <a href="https://www.kaggle.com/abdulrehmannazeer">
-        <img src="./kaggle.svg" alt="Kaggle" style="width: 40px; height: 40px;">
+        <img src="./kaggle.svg" style="width: 40px; height: 40px;">
     </a>
     &nbsp;&nbsp;
     <a href="https://www.hackerrank.com/profile/k224078">
-        <img src="./hackerrank.svg" alt="HackerRank" style="width: 40px; height: 40px;">
+        <img src="./hackerrank.svg" style="width: 40px; height: 40px;">
     </a>
 </p>
 
 ## Languages and Tools
 
-<img src="Abdul Rehman Nazeer/python.svg" alt="Python"/>&nbsp;&nbsp;
-<img src="Abdul Rehman Nazeer/javascript.svg" alt="JavaScript" />&nbsp;&nbsp;
-<img src="Abdul Rehman Nazeer/html.svg" alt="HTML"/>&nbsp;&nbsp;
+<img src="Abdul Rehman Nazeer/Python-Dark.svg"/>&nbsp;&nbsp;
+<img src="Abdul Rehman Nazeer/JavaScript.svg"/>&nbsp;&nbsp;
+<img src="Abdul Rehman Nazeer/HTMK.svg"/>&nbsp;&nbsp;
 
 
 <br />
