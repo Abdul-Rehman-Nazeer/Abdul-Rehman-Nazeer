@@ -33,10 +33,33 @@
 
 ## Languages and Tools
 
+<img src="C.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Java.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="Python-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="JavaScript.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Django.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="HTML.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-
+<img src="CSS.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="JavaScript.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Bootstrap.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="MongoDB.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="ExpressJS-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="React-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="NextJS-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="NodeJS-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Git.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Github-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="OpenCV-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Powershell-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="PyTorch-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="ScikitLearn-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="StackOverflow-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Supabase-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="TailwindCSS-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="TensorFlow.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Ubuntu-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="VSCode-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Wordpress.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="MYSQL-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 
 <br />
 <br />
