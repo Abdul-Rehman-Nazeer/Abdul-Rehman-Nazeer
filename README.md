@@ -34,7 +34,7 @@
 ## Languages and Tools
 
 <img src="C.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="Java.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Java-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="Python-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="Django.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="HTML.svg" width="40px" height="40px"/>&nbsp;&nbsp;
@@ -55,11 +55,11 @@
 <img src="StackOverflow-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="Supabase-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="TailwindCSS-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="TensorFlow.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="TensorFlow-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="Ubuntu-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="VSCode-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="Wordpress.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="MYSQL-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="MySQL-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 
 <br />
 <br />
