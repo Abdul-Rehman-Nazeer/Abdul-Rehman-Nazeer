@@ -33,9 +33,9 @@
 
 ## Languages and Tools
 
-<img src="Abdul Rehman Nazeer/Python-Dark.svg"/>&nbsp;&nbsp;
-<img src="Abdul Rehman Nazeer/JavaScript.svg"/>&nbsp;&nbsp;
-<img src="Abdul Rehman Nazeer/HTMK.svg"/>&nbsp;&nbsp;
+<img src="./Python-Dark.svg"/>&nbsp;&nbsp;
+<img src="./JavaScript.svg"/>&nbsp;&nbsp;
+<img src="./HTML.svg"/>&nbsp;&nbsp;
 
 
 <br />
