@@ -102,5 +102,9 @@ Last Updated: Wednesday, January 1st, 2025, 9:31:15 AM
         <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=Abdul-Rehman-Nazeer&theme=darkhub&no-frame=true&column=10">
     </a>
     </br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdul-Rehman-Nazeer)](https://github.com/ryo-ma/github-profile-trophy)
+    <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abdul-Rehman-Nazeer" />
+  </a>
+</div>
 </details>
