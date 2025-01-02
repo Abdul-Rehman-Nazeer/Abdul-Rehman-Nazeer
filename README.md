@@ -33,9 +33,9 @@
 
 ## Languages and Tools
 
-<img src="Abdul Rehman Nazeer/Python-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="Abdul Rehman Nazeer/JavaScript.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="Abdul Rehman Nazeer/HTML.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Python-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="JavaScript.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="HTML.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 
 
 <br />
