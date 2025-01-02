@@ -61,10 +61,8 @@
 <img src="Wordpress.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="MySQL-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 
-<br />
-<br />
-
 ---
+
 <h3>:bar_chart: My GitHub Stats</h3>
 <details>
 <summary>My recent activity</summary>
@@ -85,9 +83,7 @@ Last Updated: Wednesday, January 1st, 2025, 9:31:15 AM
         </a>
         <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/Abdul-Rehman-Nazeer?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
         <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/Abdul-Rehman-Nazeer?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/Abdul-Rehman-Nazeer?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
         <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/Abdul-Rehman-Nazeer?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/Abdul-Rehman-Nazeer?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
     </div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats-Abdul-Rehman-Nazeer.vercel.app/api?username=Abdul-Rehman-Nazeer&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
@@ -105,10 +101,6 @@ Last Updated: Wednesday, January 1st, 2025, 9:31:15 AM
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=Abdul-Rehman-Nazeer&theme=darkhub&no-frame=true&column=10">
     </a>
-    <!--<a href="https://github.com/HwangTaehyun/github-contributor-stats">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Abdul-Rehman-Nazeer&theme=dark" alt="contribution stats">
-    </a>-->
     </br>
-    <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
-    <p>You can see my full metrics <a href="https://metrics.lecoq.io/insights/Abdul-Rehman-Nazeer">here</a>.</p>
