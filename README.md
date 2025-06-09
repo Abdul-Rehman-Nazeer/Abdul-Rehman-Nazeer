@@ -34,7 +34,7 @@
     </a>
 </p>
 
-## Languages and Tools
+<h3 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> </h3>
 
 <img src="C.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="Java-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
