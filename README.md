@@ -36,6 +36,28 @@
 
 <h3 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> </h3>
 
+<img src="C.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Java-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Python-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Django.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="HTML.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="CSS.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="JavaScript.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Bootstrap.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Git.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Github-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="OpenCV-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Powershell-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="PyTorch-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="ScikitLearn-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="StackOverflow-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Supabase-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="TensorFlow-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Ubuntu-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="VSCode-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="Wordpress.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+<img src="MySQL-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
+
 <details>
 <summary>📊 Github Stats and Activity</summary>
  <h3>🔥 Streak Stats</h3>
@@ -63,28 +85,6 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Abdul-Rehman-Nazeer's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Abdul-Rehman-Nazeer&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
-
-<img src="C.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="Java-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="Python-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="Django.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="HTML.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="CSS.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="JavaScript.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="Bootstrap.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="Git.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="Github-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="OpenCV-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="Powershell-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="PyTorch-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="ScikitLearn-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="StackOverflow-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="Supabase-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="TensorFlow-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="Ubuntu-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="VSCode-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="Wordpress.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="MySQL-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abdul-Rehman-Nazeer)](https://github.com/Abdul-Rehman-Nazeer/github-profile-trophy)
 
