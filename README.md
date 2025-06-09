@@ -10,6 +10,7 @@
 - 💬 Ask me about Maching Learning, AI and Data Science.
 - 💗 I love making mini side Projects that boosts my self confidence and enhances my coding experience.
 - 📫 How to reach me abdulrehmannazeer045@gmail.com
+- Currently Teaching online And onsite to students from multiple boards.
 
 ### Connect with me:
 
@@ -41,11 +42,6 @@
 <img src="CSS.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="JavaScript.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="Bootstrap.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="MongoDB.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="ExpressJS-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="React-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="NextJS-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="NodeJS-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="Git.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="Github-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="OpenCV-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
@@ -54,7 +50,6 @@
 <img src="ScikitLearn-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="StackOverflow-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="Supabase-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
-<img src="TailwindCSS-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="TensorFlow-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="Ubuntu-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="VSCode-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
