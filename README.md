@@ -1,6 +1,5 @@
-### Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"/>I'm Abdul Rehman Nazeer.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=An+Aspiring+AI+Engineer)](https://git.io/typing-svg)
+<h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I'm Abdul Rehman Nazeer</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=A+passionate+AI+and+Machine+Learning+Engineer" alt="Typing SVG" /></a>
 
 ## I'm a Student, Developer, and Teacher!!
 
