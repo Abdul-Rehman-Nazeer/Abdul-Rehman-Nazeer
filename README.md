@@ -4,7 +4,7 @@
 ## I'm a Student, Developer, and Teacher!!
 
 - 🌱 Studying at FAST NUCES Karachi.
-- 🌱 Currently learning web dev and Agentic AI through Udemy.
+- 🌱 Currently learning web dev and Agentic AI through Udemy and nVIDIA.
 - 🔭 I know a handfull of programming languages.
 - 💬 Ask me about Maching Learning, AI and Data Science.
 - 💗 I love making mini side Projects that boosts my self confidence and enhances my coding experience.
