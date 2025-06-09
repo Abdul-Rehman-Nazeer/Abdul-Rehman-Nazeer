@@ -86,6 +86,71 @@
 
 </details>
 
+⚒️ **WakaTime Stats Breakdown**
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2036%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 2.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                817 commits         █████████░░░░░░░░░░░░░░░░   34.14 % 
+🌆 Daytime                685 commits         ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+🌃 Evening                535 commits         ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+🌙 Night                  356 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Tuesday                  159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Wednesday                702 commits         ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+Thursday                 166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Friday                   425 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Saturday                 406 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Sunday                   235 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+```
+
+
+
+
+ Last Updated on 08/06/2025 18:44:53 UTC
+<!--END_SECTION:waka-->
+<p align="center"><img src="https://wakatime.com/share/@Abdul-Rehman-Nazeer/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abdul-Rehman-Nazeer)](https://github.com/Abdul-Rehman-Nazeer/github-profile-trophy)
 
 ---
