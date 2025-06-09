@@ -61,4 +61,6 @@
 <img src="Wordpress.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 <img src="MySQL-Dark.svg" width="40px" height="40px"/>&nbsp;&nbsp;
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abdul-Rehman-Nazeer)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
