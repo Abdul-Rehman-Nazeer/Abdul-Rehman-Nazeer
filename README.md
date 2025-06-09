@@ -12,6 +12,8 @@
 - 📫 How to reach me abdulrehmannazeer045@gmail.com
 - Currently Teaching online And onsite to students from multiple boards.
 
+  ![](https://komarev.com/ghpvc/?username=Abdul-Rehman-Nazeer&style=for-the-badge)
+
 ### Connect with me:
 
 <p align="left">
